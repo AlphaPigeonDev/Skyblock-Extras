@@ -1,8 +1,5 @@
-# Skyblock-Extras
+# 🍒Skyblock-Extras🍒
 **Latest version of sbe**
-
-## GUI Screenshot
-![Screenshot](https://cdn.discordapp.com/attachments/980371346670374932/1206139903654760508/image.png?ex=65daec52&is=65c87752&hm=609a46e0a169986b8cd0a69b38da30fb5b0e0c3006dd76a17520edde7cb7dfb4&)
 
 ### Frequently Asked Questions
 
